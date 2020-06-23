@@ -12,4 +12,4 @@
 ## Demo link
 A fully functional demo is available at <a href="https://pkbagchi.github.io/SimpleDiceGame/SimpleDiceGame">(Click Here)</a>
 
-challenge done(<a href="https://www.udemy.com/course/the-complete-javascript-course/"the complete javascript course</a>)
+challenge done(<a href="https://www.udemy.com/course/the-complete-javascript-course/">the complete javascript course</a>)
